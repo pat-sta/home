@@ -2,7 +2,10 @@
 [Linkedin](https://www.linkedin.com/in/patrick-c-stach/)
 
 [Github](https://github.com/pat-stach)
+## My Projects
 
-[other-page](other-page.md)
+[Electric Longboard Safety Suite](electric-longboard-safety-suite.md)
+
+[FPGA Space Invaders](FPGA-space-invaders.md)
 
 
