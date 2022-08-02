@@ -12,4 +12,4 @@ This was a partner project with [Pouya Akbarzadeh](https://github.com/OfficialPo
 
 ## Documentation
 [Project Proposal](FPGA-space-invaders/FPGA_Space_Invaders_Project_Proposal.pdf)
-[Final Report](FPGA-space-invaders/FPGA_Space_Invaders_Final_Report.pdf)
+[Final Lab Report](FPGA-space-invaders/FPGA_Space_Invaders_Final_Report.pdf)
