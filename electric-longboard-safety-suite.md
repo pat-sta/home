@@ -18,4 +18,4 @@ Awarded 1st place in Spring 2021 for best overall senior design project and put 
 ## Documentation
 [Project Proposal](electric-longboard-safety-suite/Electric_Longboard_Safety_Suite_Proposal.pdf)
 
-[Final Lab Report](electric-longboard-safety-suite/Electric_Longboard_Safety_Final_Report.pdf)
+[Final Lab Report](electric-longboard-safety-suite/Electric_Longboard_Safety_Suite_Final_Report.pdf)
