@@ -8,7 +8,7 @@ Project Github: https://github.com/pat-stach/FPGA_Space_Invaders
 
 ## Demo
 
-[![](https://i.gyazo.com/ba41b12203d9b92b4f0a5db636b62f97.jpg)](http://www.youtube.com/watch?v=cysRJn-WV2o "FPGA Space Invaders Demo")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cysRJn-WV2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final Lab Report
 [![](https://i.gyazo.com/5ad965ec022f2f6d380bdde116992061.png)](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Final%20Report.pdf "Final Lab Report")
