@@ -1,4 +1,7 @@
+[Resume](resume-patrick-stach.pdf)
 ## My Info
+pat.stach@gmail.com
+
 [Linkedin](https://www.linkedin.com/in/patrick-c-stach/)
 
 [Github](https://github.com/pat-stach)
