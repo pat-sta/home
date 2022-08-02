@@ -11,7 +11,6 @@ Project Github: https://github.com/pat-stach/FPGA_Space_Invaders
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cysRJn-WV2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final Lab Report
-[![](https://i.gyazo.com/5ad965ec022f2f6d380bdde116992061.png)](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Final%20Report.pdf "Final Lab Report")
+<embed src="patstach.io/FPGA-space-invaders/FPGA_Space_Invaders_Final_Report.pdf" type="application/pdf"/>
 ## Project Proposal
-[![](https://i.gyazo.com/a897f7b68df50f7a8d46d4162e3900b4.png)](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Project%20Proposal.pdf "Project Proposal")
-
+ß
